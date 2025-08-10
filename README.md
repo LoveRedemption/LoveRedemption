@@ -2,7 +2,7 @@
 
 
 ### Hi there, 
-I'm Taiwo 👋, a Data Analyst passionate about transforming complex data into actionable insights, with hands-on experience in data manipulation, statistical analysis, and data visualization. I am proficient in programming languages like Python, data visualization tools like Power BI, and databases like SQL.
+I'm Taiwo 👋, a Data Analyst passionate about transforming complex data into actionable insights, with hands-on experience in data manipulation, statistical analysis, and data visualization. I am proficient in programming languages like Python, data visualization tools like Power BI, and databases like Snowflake.
 <!--
 LoveRedemption/LoveRedemption is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
